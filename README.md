@@ -5,3 +5,5 @@ hybrid_model using SMILES and sigma profile as input
 
 
 shiang-tai lin
+
+shao-wei lu
